@@ -28,15 +28,20 @@ Este foi meu primeiro projeto completo com formulário. Aprendi bastante sobre v
 
 # Próximos passos
 
-- [ ] Melhorar as validações
-- [ ] Adicionar mais animações
-- [ ] Fazer sistema de login
-- [ ] Conectar com banco de dados
+Melhorar as validações
+
+Adicionar mais animações
+
+Fazer sistema de login
+
+Conectar com banco de dados
 
 # O que estudar depois
 
-- [ ] APIs
-- [ ] Banco de dados
-- [ ] Node.js
+APIs
+
+Banco de dados
+
+Node.js
 
 *Projeto desenvolvido para aprendizado 💻*
