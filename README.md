@@ -6,6 +6,8 @@ Formulário de cadastro para comunidade gamer que desenvolvi para praticar HTML,
 
 🔗 **https://diane-young.github.io/GamersConnect**
 
+![Preview da imagem]<img width="1667" height="863" alt="Image" src="https://github.com/user-attachments/assets/91a81b94-e5cf-46e8-906b-c0d72022ff6f" />
+
 # Sobre o Projeto
 
 Este foi meu primeiro projeto completo com formulário. Aprendi bastante sobre validações, design responsivo e como estruturar um projeto web.
