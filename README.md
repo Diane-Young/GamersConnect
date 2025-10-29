@@ -6,7 +6,7 @@ Formulário de cadastro para comunidade gamer que desenvolvi para praticar HTML,
 
 🔗 **https://diane-young.github.io/GamersConnect**
 
-<img width="1667" height="863" alt="Image" src="https://github.com/user-attachments/assets/91a81b94-e5cf-46e8-906b-c0d72022ff6f" />
+<img width="1585" height="797" alt="gamersconnectprevia" src="https://github.com/user-attachments/assets/d0c0871d-4f30-416c-ade5-3c4871639869" />
 
 # Sobre o Projeto
 
